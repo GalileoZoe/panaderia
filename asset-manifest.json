@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/panaderia/static/css/main.acb56092.css",
-    "main.js": "/panaderia/static/js/main.83c7cb71.js",
+    "main.css": "/panaderia/static/css/main.a4d273b4.css",
+    "main.js": "/panaderia/static/js/main.7c33e3e3.js",
     "static/js/453.84c8a316.chunk.js": "/panaderia/static/js/453.84c8a316.chunk.js",
     "static/media/trigo-r.png": "/panaderia/static/media/trigo-r.b7d10e57be725bc89ee1.png",
     "static/media/trigo-l.png": "/panaderia/static/media/trigo-l.616312915f277882011e.png",
     "static/media/logo-000.png": "/panaderia/static/media/logo-000.e806dd9e6c9d5b63f50b.png",
     "index.html": "/panaderia/index.html",
-    "main.acb56092.css.map": "/panaderia/static/css/main.acb56092.css.map",
-    "main.83c7cb71.js.map": "/panaderia/static/js/main.83c7cb71.js.map",
+    "main.a4d273b4.css.map": "/panaderia/static/css/main.a4d273b4.css.map",
+    "main.7c33e3e3.js.map": "/panaderia/static/js/main.7c33e3e3.js.map",
     "453.84c8a316.chunk.js.map": "/panaderia/static/js/453.84c8a316.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acb56092.css",
-    "static/js/main.83c7cb71.js"
+    "static/css/main.a4d273b4.css",
+    "static/js/main.7c33e3e3.js"
   ]
 }
